@@ -1,0 +1,29 @@
+body{
+    background: #85a6b1;
+    padding-left: 50px;
+    padding-right: 500px;
+    font-family: 'raleway';
+}
+
+h3{
+    
+}
+
+h2{
+    
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 20;
+    width: 100;
+}
+
+nav ul{
+    width: 100%;
+    background-color: #737373;
+    overflow: hidden;
+    color: white;
+    padding: 0;
+    margin: 0;
+    text-align: center;
